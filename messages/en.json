@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "siteName": "OffOnSale",
+    "homeTitle": "OffOnSale: the online store built for how Pakistan and the Gulf buy",
+    "homeDescription": "Start an online store with cash on delivery that protects you, WhatsApp built in, and Urdu, Arabic and English. 14 days free, no card needed.",
+    "pricingTitle": "Pricing: plans from Rs 2,999 a month",
+    "pricingDescription": "Simple plans in Pakistani rupees. Start with a 14-day free trial with every feature on. Upgrade, downgrade or cancel anytime.",
+    "featuresTitle": "Features: everything to run your online store",
+    "featuresDescription": "Drag-and-drop theme designer, custom checkout, COD Shield, returns and exchanges, discounts, gift cards, customer accounts and more.",
+    "aboutTitle": "About OffOnSale",
+    "aboutDescription": "We are building the commerce platform South Asian and Gulf brands deserve: cash on delivery done right, three languages, and privacy by design.",
+    "startTitle": "Start your free trial",
+    "startDescription": "Create your OffOnSale store in minutes. 14 days free with every feature. No card needed to start.",
+    "privacyTitle": "Privacy",
+    "termsTitle": "Terms"
+  },
+  "nav": {
+    "product": "Product",
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "signIn": "Sign in",
+    "start": "Start free",
+    "language": "Language",
+    "menu": "Menu",
+    "close": "Close",
+    "skip": "Skip to content"
+  },
+  "hero": {
+    "eyebrow": "For brands in Pakistan and the Gulf",
+    "line1": "Sell online.",
+    "line2": "Get paid,",
+    "line3": "even on delivery.",
+    "lead": "OffOnSale is the store builder made for cash on delivery, WhatsApp and three languages. Launch a beautiful store today and keep more of every order.",
+    "primary": "Start free for 14 days",
+    "secondary": "See pricing",
+    "note": "No card needed · Every feature on · Cancel anytime",
+    "cardOrder": "New order #1042",
+    "cardOrderMeta": "Lahore · Cash on delivery",
+    "cardConfirmed": "Confirmed on WhatsApp",
+    "cardShield": "COD Shield",
+    "cardShieldMeta": "Low risk · ship it",
+    "cardLang": "اردو · العربية · English"
+  },
+  "marquee": [
+    "Cash on delivery",
+    "JazzCash",
+    "Bank transfer",
+    "Cards",
+    "WhatsApp",
+    "اردو",
+    "العربية",
+    "English",
+    "Returns & exchanges",
+    "Gift cards"
+  ],
+  "story": {
+    "eyebrow": "Why OffOnSale",
+    "title": "Built for how your customers actually buy",
+    "lead": "Most store builders were made for card payments and English. Your customers pay in cash, ask questions on WhatsApp and read right to left. OffOnSale starts there.",
+    "items": [
+      {
+        "tag": "COD Shield",
+        "title": "Cash on delivery, without the fake orders",
+        "body": "Every cash-on-delivery order is checked before it ships: repeat refusals, risky cities, too many orders from one network. Ask risky buyers to confirm on WhatsApp or pay a small advance, automatically."
+      },
+      {
+        "tag": "WhatsApp",
+        "title": "Your customers already live on WhatsApp",
+        "body": "Order confirmations, cart recovery and help buttons go where your buyers are. One tap to confirm a COD order, one tap to ask you a question."
+      },
+      {
+        "tag": "اردو · العربية",
+        "title": "Urdu, Arabic and English, properly",
+        "body": "Right-to-left from the first pixel, not a mirrored afterthought. Your store, checkout and emails in each language, with your own words for each."
+      },
+      {
+        "tag": "Privacy",
+        "title": "Your customers' addresses, locked",
+        "body": "Phone numbers and addresses are encrypted in the shopper's browser. Only your team can open them. Not us, not anyone who breaks in."
+      },
+      {
+        "tag": "Checkout",
+        "title": "A checkout that is yours",
+        "body": "Your logo, colours, trust badges, delivery promises and your own questions. Rules that hide COD for far cities or add a fee. Offers after the order that still pay on delivery."
+      }
+    ]
+  },
+  "bento": {
+    "eyebrow": "Everything in one place",
+    "title": "Run your whole store from one beautiful admin",
+    "items": {
+      "theme": {
+        "title": "Design without code",
+        "body": "Click anything on your store to edit it. Drag in banners, columns and videos with the visual designer."
+      },
+      "checkout": {
+        "title": "Custom checkout",
+        "body": "Branding, blocks, extra fields, rules and upsells, with a live preview."
+      },
+      "returns": {
+        "title": "Returns & exchanges",
+        "body": "Shoppers ask for a size swap from their order page. You approve, restock and settle in a click."
+      },
+      "discounts": {
+        "title": "Discounts & gift cards",
+        "body": "Codes, automatic sales, buy-X-get-Y and gift cards that work at checkout."
+      },
+      "accounts": {
+        "title": "Customer accounts with passkeys",
+        "body": "Shoppers sign in with their fingerprint or face. No passwords to forget."
+      },
+      "import": {
+        "title": "Move from Shopify",
+        "body": "Bring your products, customers and orders across in minutes."
+      }
+    }
+  },
+  "steps": {
+    "eyebrow": "From idea to first order",
+    "title": "Open today. Sell tonight.",
+    "items": [
+      {
+        "title": "Create your store",
+        "body": "Pick a name, your country and language. Your store is live on its own address in a minute."
+      },
+      {
+        "title": "Add products and make it yours",
+        "body": "Photos, sizes and prices, then the Noor theme in your colours, or design your own sections."
+      },
+      {
+        "title": "Turn on cash on delivery",
+        "body": "COD Shield, WhatsApp confirmation and your delivery rates. Share your link and take your first order."
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Simple plans, in rupees",
+    "lead": "Every plan starts with 14 days free and every feature on. No card needed to start.",
+    "perMonth": "/month",
+    "popular": "Most popular",
+    "cta": "Start free trial",
+    "ctaPlan": "Start with {plan}",
+    "seeAll": "Compare all features",
+    "trialNote": "Your plan starts after the 14-day free trial. Add a card anytime during the trial so your store stays open.",
+    "plans": {
+      "BASIC": {
+        "name": "Basic",
+        "tagline": "Start selling online"
+      },
+      "GROW": {
+        "name": "Grow",
+        "tagline": "For growing brands"
+      },
+      "PLUS": {
+        "name": "Plus",
+        "tagline": "Your own checkout, your way"
+      }
+    },
+    "staffLimit": "{count, plural, one {# staff account} other {# staff accounts}} besides you",
+    "staffUnlimited": "Unlimited staff accounts",
+    "productLimit": "Up to {count, number} products",
+    "productsUnlimited": "Unlimited products",
+    "included": [
+      "Online store with the Noor theme",
+      "Cash on delivery with COD Shield",
+      "Urdu, Arabic and English",
+      "Discounts and gift cards",
+      "Returns and exchanges",
+      "Customer accounts"
+    ],
+    "features": {
+      "branding": "Checkout branding",
+      "blocks": "Checkout blocks and designs",
+      "fields": "Custom checkout fields",
+      "rules": "No-code checkout rules",
+      "upsells": "Checkout and after-order upsells",
+      "support": "Priority support"
+    },
+    "compareTitle": "Compare plans",
+    "feature": "Feature",
+    "everyPlan": "Included in every plan",
+    "yes": "Included",
+    "no": "Not included",
+    "staffRow": "Staff accounts",
+    "productsRow": "Products"
+  },
+  "faq": {
+    "title": "Questions, answered",
+    "items": [
+      {
+        "q": "Do I need a card to start?",
+        "a": "No. Your 14-day trial needs no card. Add one anytime during the trial so your plan starts by itself. Without a card, your store closes to shoppers 7 days after the trial ends, until a plan is paid. Your products and orders are never deleted."
+      },
+      {
+        "q": "How do I pay for my plan?",
+        "a": "By card, charged automatically each month, or by bank transfer, JazzCash or Easypaisa against an invoice. Prices are in Pakistani rupees."
+      },
+      {
+        "q": "Does OffOnSale see my customers' details?",
+        "a": "No. Phone numbers and addresses are encrypted in the shopper's browser with a key only your team holds. Your card is saved by our payment partner: OffOnSale never sees its number."
+      },
+      {
+        "q": "Can I change plans later?",
+        "a": "Anytime. Upgrades take effect straight away and you pay only the difference for the rest of the month. Downgrades start at your next renewal."
+      },
+      {
+        "q": "Can my store be in Urdu or Arabic?",
+        "a": "Yes. Your store, checkout and order pages work in Urdu, Arabic and English, right to left where it should be, and shoppers switch languages in one tap."
+      },
+      {
+        "q": "I already sell on Shopify. Can I move?",
+        "a": "Yes. Import your products, customers and order history, then switch your domain when you are ready."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Your store could be live before dinner.",
+    "body": "14 days free. Every feature. No card needed.",
+    "button": "Start your free trial"
+  },
+  "footer": {
+    "tagline": "The store builder for cash on delivery, WhatsApp and three languages.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "rights": "© {year} OffOnSale. All rights reserved.",
+    "made": "Made in Pakistan, for the world."
+  },
+  "start": {
+    "eyebrow": "Free for 14 days",
+    "title": "Let's build your store",
+    "lead": "Tell us a little about your store. Next, you'll create your account on our secure sign-in page.",
+    "plan": "Your plan after the trial",
+    "trialOnly": "Decide later",
+    "trialOnlyHint": "Try everything, pick a plan before the trial ends.",
+    "store": "Store name",
+    "storePlaceholder": "e.g. Noor Couture",
+    "email": "Your email",
+    "country": "Where you sell",
+    "countries": {
+      "PK": "Pakistan (PKR)",
+      "SA": "Saudi Arabia (SAR)",
+      "AE": "UAE (AED)"
+    },
+    "language": "Store language",
+    "submit": "Continue to create my account",
+    "secure": "Passwords are set on our secure sign-in page, never on this website.",
+    "haveAccount": "Already have a store?",
+    "signIn": "Sign in",
+    "timelineTitle": "How your trial works",
+    "timeline": [
+      {
+        "when": "Today",
+        "what": "Your store is ready, with every feature on. Nothing to pay."
+      },
+      {
+        "when": "Any time in the trial",
+        "what": "Add a card so your plan starts by itself. We never see the number."
+      },
+      {
+        "when": "Day 14",
+        "what": "Your plan starts. With a card, it's paid automatically."
+      },
+      {
+        "when": "No card?",
+        "what": "We remind you. 7 days after the trial, the store closes to shoppers until a plan is paid. Nothing is deleted."
+      }
+    ],
+    "errors": {
+      "store": "Give your store a name (2 to 100 characters).",
+      "email": "Enter a valid email."
+    }
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "Commerce, made for here.",
+    "lead": "OffOnSale started with a simple frustration: the tools brands in Pakistan and the Gulf use were built for somewhere else.",
+    "story": [
+      "Cash on delivery is how most of our customers pay, yet every store builder treats it as an afterthought. Fake orders and refused parcels quietly eat the margins of the brands we love.",
+      "So we built a platform around how people here actually buy: COD that protects you, WhatsApp at every step, and Urdu and Arabic that feel native, not translated.",
+      "And because trust matters, we encrypt your customers' details in their own browser. We built OffOnSale so that even we cannot read them."
+    ],
+    "valuesTitle": "What we stand for",
+    "values": [
+      {
+        "title": "Local first",
+        "body": "Rupees, cash on delivery, WhatsApp and right-to-left are the starting point, not add-ons."
+      },
+      {
+        "title": "Privacy by design",
+        "body": "Your customers' addresses are yours. Encrypted end to end, readable only by your team."
+      },
+      {
+        "title": "Beautiful by default",
+        "body": "Your store should look like a brand on day one, not after hiring a designer."
+      },
+      {
+        "title": "Fair pricing",
+        "body": "Clear plans in rupees, a real free trial, and no surprise fees on your sales."
+      }
+    ]
+  },
+  "legal": {
+    "updated": "Last updated {date}",
+    "privacy": [
+      {
+        "h": "What we collect",
+        "p": "Your account details (name, email), your store's settings and content, and invoices for your plan. Shoppers' phone numbers and addresses are encrypted in their browser and only your team can read them."
+      },
+      {
+        "h": "Cards",
+        "p": "Your card is saved by our payment partner. OffOnSale keeps only a reference, the brand, the last four digits and the expiry date."
+      },
+      {
+        "h": "How we use it",
+        "p": "To run your store, bill your plan, keep the service secure and talk to you about your account. We never sell your data or your customers' data."
+      },
+      {
+        "h": "Your choices",
+        "p": "Export or delete your store's data at any time from your admin, or write to us and we will help."
+      }
+    ],
+    "terms": [
+      {
+        "h": "Your trial",
+        "p": "Every store starts with a 14-day free trial. No card is needed to start."
+      },
+      {
+        "h": "Plans and billing",
+        "p": "Plans are billed monthly in Pakistani rupees, by card or against an invoice. Upgrades are prorated; downgrades start at the next renewal."
+      },
+      {
+        "h": "Unpaid plans",
+        "p": "If a plan is not paid, your store stays open for a 7-day grace period, then closes to shoppers until it is paid. Your data is kept."
+      },
+      {
+        "h": "Your content",
+        "p": "You own your store, products and customer relationships. You are responsible for what you sell and for following local laws."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "This page sold out.",
+    "body": "The page you were looking for isn't here. Let's get you back to something good.",
+    "home": "Back to home"
+  }
+}
